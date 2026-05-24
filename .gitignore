@@ -1,0 +1,10 @@
+build/
+.cache/
+.idea/
+
+mails/
+attachments/
+*.sqlite3
+*.db
+
+.env

@@ -1,0 +1,18 @@
+[submodule "third_party/curl"]
+	path = third_party/curl
+	url = https://github.com/curl/curl.git
+	ignore = dirty
+[submodule "third_party/json"]
+	path = third_party/json
+	url = https://github.com/nlohmann/json.git
+	ignore = dirty
+[submodule "third_party/sqlite_orm"]
+	path = third_party/sqlite_orm
+	url = https://github.com/fnc12/sqlite_orm.git
+	ignore = dirty
+[submodule "third_party/sqlite3-cmake"]
+	path = third_party/sqlite3-cmake
+	url = https://github.com/aiwang23/sqlite3-cmake.git
+[submodule "third_party/cxxopts"]
+	path = third_party/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
